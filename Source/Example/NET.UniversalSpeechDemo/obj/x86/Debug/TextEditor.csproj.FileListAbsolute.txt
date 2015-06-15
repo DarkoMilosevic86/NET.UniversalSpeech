@@ -1,0 +1,11 @@
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.TextEditor.resources
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor Design\TextEditor\obj\x86\Debug\TextEditor.exe
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor Design\TextEditor\obj\x86\Debug\TextEditor.pdb
